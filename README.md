@@ -1,7 +1,6 @@
 ## About me  👋
 
 
-- 🔭 LGBTQ＋関連の事業を起こしたいと考えています。舞台芸術にも興味があり、舞台表現の幅をテクノロジーの力で広げていきたいです。
-- 🌱 そのために神山まるごと高専で特にテクノロジーの部分を基礎から鍛えていきます。
-- 👯 IT分野に強い人と出会いたいです。ぜひ教えてください！
-
+- 🔭 I want to start a business related to LGBTQ+ issues. I'm also interested in performing arts and want to expand the range of theatrical expression through the power of technology.
+- 🌱 To that end, at Kamiyama National College of Technology, we will focus on training students in technology from the ground up.
+- 👯 I'd like to meet someone with strong IT skills. Please let me know!
